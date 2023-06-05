@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Lesson3
+//  Lesson04_add01
 //
-//  Created by dmitriy on 17/5/2023.
+//  Created by dmitriy on 4/6/2023.
 //
 
 import UIKit
